@@ -14,7 +14,7 @@ AWS Properties
 - Availability Zone Subnets: Select the two subnets in the screenshot below.
 - Restricted Source Address: 0.0.0.0/0
 - SSH Key Name: MyKeyPair-userXX@f5lab.com where userXX is the user id uniquely assigned to you at the start of the lab.
-- Services to Deploy: Local Traffic + Web Application
+- Services to Deploy: Local Traffic + Web Application Security + Application Visibility and Reporting
 - License Type: Utility
 - AMI image BIG-IP 13.1.0.7.0.0.1 - BEST 25MB
 - Instance Type: m4.xlarge
